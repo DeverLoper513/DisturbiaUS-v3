@@ -16,7 +16,7 @@
   scroll-behavior: smooth;
 }
 a{
-  text-decoration: none;
+  text-decoration: none !important;
 }
 a.yotpo-sr-bottom-line-summary {
     text-decoration: none;
